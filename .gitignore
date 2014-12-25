@@ -1,2 +1,7 @@
 ~$nventions.docx
 Conventions.docx
+ueproj/WinterProject/Binaries/
+ueproj/WinterProject/Intermediate/
+*.sdf
+*.sln
+*.suo
